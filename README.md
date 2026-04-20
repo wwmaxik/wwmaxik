@@ -17,7 +17,7 @@ I'm a 17-year-old developer focused on building efficient tools and contributing
 ### 🛠 Tech Stack
 
 - **Languages:** Python (Expert), Rust (Advanced), Bash, GLSL (Shaders).
-- **Frameworks/Tools:** Aiogram (TG Bots), GTK4, PyGObject, Selenium/Playwright.
+- **Frameworks/Tools:** Aiogram (TG Bots), GTK4, PyGObject, Selenium/Playwright, Notion API integration.
 - **Environment:** Debian 13 (Trixie), Wayland, driftwm, Neovim.
 - **DevOps:** GitHub Actions, Docker, Linux Server Administration.
 
@@ -32,5 +32,5 @@ I'm a 17-year-old developer focused on building efficient tools and contributing
 
 ### 📫 Connect with me:
 
-- **Telegram:** [nousername0](https://t.me/nousername0)
-- **Email:** wwmaxik@mail.ru
+- **Telegram:** [wwmaxik](https://t.me/wwmaxik)
+- **Email:** wwmaxik@proton.me
