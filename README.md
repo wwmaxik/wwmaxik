@@ -16,9 +16,9 @@ I'm a 17-year-old developer focused on building efficient tools and contributing
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python (Expert), Rust (Learning/Systems), Bash, GLSL (Shaders).
+- **Languages:** Python (Expert), Rust (Advanced), Bash, GLSL (Shaders).
 - **Frameworks/Tools:** Aiogram (TG Bots), GTK4, PyGObject, Selenium/Playwright.
-- **Environment:** Arch Linux, Wayland, driftwm, Neovim.
+- **Environment:** Debian 13 (Trixie), Wayland, driftwm, Neovim.
 - **DevOps:** GitHub Actions, Docker, Linux Server Administration.
 
 ---
