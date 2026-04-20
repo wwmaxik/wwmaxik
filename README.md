@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Maksim (wwmaxik) 👋
 
-<!--
-**wwmaxik/wwmaxik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 System & Python Developer | Linux Enthusiast
 
-Here are some ideas to get you started:
+I'm a 17-year-old developer focused on building efficient tools and contributing to the open-source ecosystem. Currently, I'm heavily involved in the Wayland ecosystem and automated systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Key Projects & Contributions
+
+- **[driftwm](https://github.com/malbiruk/driftwm)** — Core contributor. Implemented animated background shaders (time uniforms) and backend stability quirks for NVIDIA/Wayland.
+- **[driftwm-settings](https://github.com/wwmaxik/driftwm-settings)** — Author. A GTK4/Python GUI configuration editor for the driftwm tiling window manager.
+- **VoidAgent** — Experimental autonomous AI agent architecture based on LLMs (Claude 4.5 Sonnet).
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Python (Expert), Rust (Learning/Systems), Bash, GLSL (Shaders).
+- **Frameworks/Tools:** Aiogram (TG Bots), GTK4, PyGObject, Selenium/Playwright.
+- **Environment:** Arch Linux, Wayland, driftwm, Neovim.
+- **DevOps:** GitHub Actions, Docker, Linux Server Administration.
+
+---
+
+### 📊 GitHub Stats
+
+![wwmaxik's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwmaxik&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwmaxik&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect with me:
+
+- **Telegram:** [wwmaxik](https://t.me/wwmaxik)
+- **Email:** wwmaxik@proton.me
