@@ -1,4 +1,4 @@
-# Привет, я Максим (wwmaxik) 👋
+# Привет, я Максим (wwmaxik) 👋 [🇺🇸](./README.md)
 
 ### 👨‍💻 Full-Stack & Systems Developer | Эксперт по автоматизации
 
@@ -10,7 +10,7 @@
 
 - **[driftwm](https://github.com/malbiruk/driftwm)** — Core-контрибьютор. Реализовал поддержку анимированных шейдеров фона (time uniforms) и настройки стабильности бэкенда для связки NVIDIA/Wayland.
 - **[driftwm-settings](https://github.com/wwmaxik/driftwm-settings)** — Автор. Редактор конфигурации с GUI на GTK4/Python для тайлового оконного менеджера driftwm.
-- **VoidAgent** — Экспериментальная автономная мультиагентная архитектура на базе LLM (Claude 4.5 Sonnet).
+- **[VoidAgent](https://github.com/wwmaxik/VoidAgent)** — Автор. Экспериментальная автономная мультиагентная архитектура на базе LLM (Claude 4.5 Sonnet).
 
 ---
 

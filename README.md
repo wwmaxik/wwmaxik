@@ -10,7 +10,7 @@ I'm a 17-year-old developer from Krasnoyarsk, deeply passionate about systems pr
 
 - **[driftwm](https://github.com/malbiruk/driftwm)** — Core contributor. Implemented animated background shaders (time uniforms) and backend stability quirks for NVIDIA/Wayland.
 - **[driftwm-settings](https://github.com/wwmaxik/driftwm-settings)** — Author. A GTK4/Python GUI configuration editor for the driftwm tiling window manager.
-- **VoidAgent** — Experimental autonomous multi-agent architecture based on LLMs (Claude 4.5 Sonnet).
+- **[VoidAgent](https://github.com/wwmaxik/VoidAgent)** — Author. Experimental autonomous multi-agent architecture based on LLMs (Claude 4.5 Sonnet).
 
 ---
 
