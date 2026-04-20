@@ -1,8 +1,8 @@
 # Hi there, I'm Maksim (wwmaxik) 👋
 
-### 👨‍💻 System & Python Developer | Linux Enthusiast
+### 👨‍💻 Full-Stack & Systems Developer | Automation Expert
 
-I'm a 17-year-old developer focused on building efficient tools and contributing to the open-source ecosystem. Currently, I'm heavily involved in the Wayland ecosystem and automated systems.
+I'm a 17-year-old developer from Krasnoyarsk, deeply passionate about systems programming, automation, and building tools that make life easier. I focus on creating efficient architectures and contributing to the open-source community.
 
 ---
 
@@ -10,16 +10,17 @@ I'm a 17-year-old developer focused on building efficient tools and contributing
 
 - **[driftwm](https://github.com/malbiruk/driftwm)** — Core contributor. Implemented animated background shaders (time uniforms) and backend stability quirks for NVIDIA/Wayland.
 - **[driftwm-settings](https://github.com/wwmaxik/driftwm-settings)** — Author. A GTK4/Python GUI configuration editor for the driftwm tiling window manager.
-- **VoidAgent** — Experimental autonomous AI agent architecture based on LLMs (Claude 4.5 Sonnet).
+- **VoidAgent** — Experimental autonomous multi-agent architecture based on LLMs (Claude 4.5 Sonnet).
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python (Expert), Rust (Advanced), Bash, GLSL (Shaders).
-- **Frameworks/Tools:** Aiogram (TG Bots), GTK4, PyGObject, Selenium/Playwright, Notion API integration.
-- **Environment:** Debian 13 (Trixie), Wayland, driftwm, Neovim.
-- **DevOps:** GitHub Actions, Docker, Linux Server Administration.
+- **Languages:** Python (Expert), Rust (Advanced), C++ (Prior experience), Bash, GLSL (Shaders).
+- **Web & Apps:** JavaScript/TypeScript, HTML/CSS, GTK4 (Desktop GUI).
+- **Automation & Productivity:** Aiogram (TG Bots), Selenium/Playwright, Notion/ClickUp API integrations.
+- **Environment:** Debian 13 (Trixie), Wayland, Neovim, Docker.
+- **Systems:** Linux Server Administration, GitHub Actions.
 
 ---
 
