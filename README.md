@@ -32,5 +32,5 @@ I'm a 17-year-old developer focused on building efficient tools and contributing
 
 ### 📫 Connect with me:
 
-- **Telegram:** [wwmaxik](https://t.me/wwmaxik)
-- **Email:** wwmaxik@proton.me
+- **Telegram:** [nousername0](https://t.me/nousername0)
+- **Email:** wwmaxik@mail.ru
