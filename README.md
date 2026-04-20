@@ -1,4 +1,4 @@
-# Hi there, I'm Maksim (wwmaxik) 👋
+# Hi there, I'm Maksim (wwmaxik) 👋 [🇷🇺](./README_RU.md)
 
 ### 👨‍💻 Full-Stack & Systems Developer | Automation Expert
 
@@ -16,8 +16,8 @@ I'm a 17-year-old developer from Krasnoyarsk, deeply passionate about systems pr
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python (Expert), Rust (Advanced), C++ (Prior experience), Bash, GLSL (Shaders).
-- **Web & Apps:** JavaScript/TypeScript, HTML/CSS, GTK4 (Desktop GUI).
+- **Languages:** Python (Expert), Rust (Advanced), JavaScript/TypeScript, C++, Bash, GLSL (Shaders).
+- **Web & Apps:** HTML/CSS, GTK4 (Desktop GUI).
 - **Automation & Productivity:** Aiogram (TG Bots), Selenium/Playwright, Notion/ClickUp API integrations.
 - **Environment:** Debian 13 (Trixie), Wayland, Neovim, Docker.
 - **Systems:** Linux Server Administration, GitHub Actions.
